@@ -8,6 +8,7 @@ Hello,
  - [**For the role of Machine Learning/ Data Analysis**](https://github.com/parikshitdeshmukh/Resume/blob/master/Resume_Parikshit_Deshmukh_Python.pdf)
 
 Thanks and feel free to contact me!
+(http://home.parikit.com)
 
 +1 716 598 4517
 parikshitd92@gmail.com
